@@ -21,5 +21,4 @@ This project is a basic replica of the Amazon.com website's layout.
 Feel free to contribute to the project by forking the repository and making changes.
 
 
-# License
-This project is licensed under the MIT License.
+
